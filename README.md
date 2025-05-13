@@ -6,12 +6,12 @@ An offline-only Android music player geared with statistics in mind.
 - [ ] UI Design
   - [x] Base
   - [x] Navbar 
-  - [ ] Home
-    - [ ] Search
-    - [ ] Recent
-    - [ ] Favorites
-    - [ ] Forgotten Favorites
-    - [ ] Most Played 
+  - [x] Home
+    - [x] Search
+    - [x] Recent
+    - [x] Favorites
+    - [x] Forgotten Favorites
+    - [x] Most Played 
   - [ ] Library
     - [x] Main
     - [x] Add Playlist
@@ -23,4 +23,4 @@ An offline-only Android music player geared with statistics in mind.
   - [ ] Downloads
     - [ ] Search
     - [ ] Download State
-  - [ ] Settings   
+  - [ ] Statistics   
