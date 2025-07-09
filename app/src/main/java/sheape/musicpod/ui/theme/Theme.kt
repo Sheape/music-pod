@@ -19,6 +19,7 @@ private val DarkColorScheme = darkColorScheme(
     error = Red,
     background = Base,
     surface = Surface0,
+    surfaceContainerLowest = Base
 )
 
 // TODO: Add light theme colors.
